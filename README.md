@@ -36,6 +36,10 @@ Starbucks regularly sends offers to users of its mobile app. Not all users recei
 
 The main findings of this project can be found in the report provided in this repository.
 
+## Blog Post <a name="results"></a>
+
+The report of this capstone can be seen on my [Medium](https://medium.com/@aussa.tris/unraveling-the-magic-behind-starbucks-offers-a-data-driven-approach-60414a141ba7)
+
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
 Data for coding exercises belongs to Starbucks. Otherwise, use the code here as you would like!
